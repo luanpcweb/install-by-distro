@@ -1,6 +1,6 @@
 # Install by Distro Linux
 
-´´´sh
+```bash
 chmod +x install-by-distro.sh
 ./install-by-distro.sh
-´´´
+```
